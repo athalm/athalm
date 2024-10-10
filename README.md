@@ -76,7 +76,8 @@ Expected Graduation: December 2025
 - **Programming Languages**: C, C++, Java, MIPS, Verilog, Haskell
 - **Data Analysis**: R, Pandas
 - **Tools & Platforms**: Git, GitHub, Microsoft Azure, Oracle Cloud Infrastructure
-- 
+
+<!--
 ## 🛠 Tech Toolbox
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -91,6 +92,8 @@ Expected Graduation: December 2025
 
 ![Mrunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athalm&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athalm&layout=compact&theme=radical)
+
+-->
 
 ## 🤝 Let's Connect!
 
