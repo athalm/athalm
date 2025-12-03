@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mrunal!
 
-I'm currently a junior at Rensselaer Polytechnic Institute, pursuing a dual major in Computer Science and Information Technology and Web Science. My ITWS focus track is Web Technologies, and my CS concentration is in Data and AI. I am particularly interested in the intersection between data and healthcare, as I see immense potential in that area. While I really love backend work, I also have experience in frontend and full stack development.
+I'm currently a senior at Rensselaer Polytechnic Institute, pursuing a dual major in Computer Science and Information Technology and Web Science. My ITWS focus track is Web Technologies, and my CS concentration is in Data and AI. I am particularly interested in the intersection between data and healthcare, as I see immense potential in that area. While I really love backend work, I also have experience in frontend and full stack development.
 
 ## 🎓 Education
 
