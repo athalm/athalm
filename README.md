@@ -1,6 +1,6 @@
 # Hi, I'm Mrunal 👋
 
-Computer Science and Web Science graduate from RPI, with a minor in Cognitive Science.
+Computer Science and Information Technology & Web Science graduate from RPI, with a minor in Cognitive Science.
 Full-stack engineer and incoming Cyber Analyst at Deloitte Consulting. I've built production applications, contributed to open-source platforms, and worked on real security problems.
 
 ## What I work with
