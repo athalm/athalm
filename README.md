@@ -5,12 +5,12 @@ Full-stack engineer and incoming Cyber Analyst at Deloitte Consulting. I've buil
 
 ## What I work with
 
-**Languages:** Python, Java, C, C++, JavaScript, TypeScript, R, Haskell, Prolog, Erlang, SALSA, MIPS, Verilog
-**Web & Frontend:** HTML, CSS, React, NodeJS, Express, jQuery, Bootstrap, PHP, AJAX
-**Backend & Databases:** Spring Boot, REST API, MySQL, PostgreSQL, MongoDB
-**Tools & Platforms:** Git/GitHub, Microsoft Azure, Oracle Cloud, Figma, Balsamiq, Vite, Vitest
-**Data & ML:** Pandas, NumPy, gensim, Data Mining, NLP
-**Other:** DevOps, Penetration Testing, Agile, Cost Benefit Analysis
+- **Languages:** Python, Java, C, C++, JavaScript, TypeScript, R, Haskell, Prolog, Erlang, SALSA, MIPS, Verilog
+- **Web & Frontend:** HTML, CSS, React, NodeJS, Express, jQuery, Bootstrap, PHP, AJAX
+- **Backend & Databases:** Spring Boot, REST API, MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Git/GitHub, Microsoft Azure, Oracle Cloud, Figma, Balsamiq, Vite, Vitest
+- **Data & ML:** Pandas, NumPy, gensim, Data Mining, NLP
+- **Other:** DevOps, Penetration Testing, Agile, Cost Benefit Analysis
 
 ## A few things I've built
 
